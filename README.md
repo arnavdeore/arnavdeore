@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
 </p>
 
 <!--
@@ -84,8 +88,19 @@ I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked o
 ---
 
 ## 📫 Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/arnav-deore-03b0901bb)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/profile/arnavdeore08)
+<p align="left">
+  <a href="https://www.linkedin.com/in/arnav-deore-03b0901bb" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="200"/>
+  </a>
+</p>
+
+
+<p style="text-align: right;">
+  <a href="https://www.hackerrank.com/profile/arnavdeore08" target="_blank">
+    <img src="https://cdn.dribbble.com/users/1771471/screenshots/14108349/media/0d446f06dbc6f204fdcb138902df65c9.gif" alt="Hackerrank GIF" width="300"/>
+  </a>
+</p>
+
 
 Feel free to explore my repositories and reach out for collaborations or queries.
 
