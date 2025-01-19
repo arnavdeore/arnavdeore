@@ -22,8 +22,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">ABOUT ME</h1>
-I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked on hands-on projects like Stock Market Data analysis and delivered actionable insights for stock investment decisions. Developed proficiency in data visualization using Power BI, Tableau, and Excel enhancing organizational performance. Well-versed in database management and SQL, supporting analytical initiatives and improving data integrity. Core competencies include Data Analysis, Data Extraction, and Data Visualization, Business Intelligence, Python, Statistical Analysis, and Exploratory Data Analysis (EDA) with Python. R programming(creating graphs).
+<h1 align="center">ABOUT ME 👨‍💻</h1>
+Hi there! I'm **Arnav Deore**, a passionate **B-Tech graduate in Computer Science and Engineering** with a knack for uncovering insights through data. 🚀 
+
+🔍 **Key Highlights:**
+- 🧩 Worked on exciting projects like **Stock Market Data Analysis**, delivering actionable insights for smarter investment decisions.
+- 📊 Proficient in **Power BI**, **Tableau**, and **Excel**, driving enhanced organizational performance with impactful visualizations.
+- 🛠️ Skilled in **Database Management** and **SQL**, ensuring data integrity and supporting analytical initiatives.
+- 🐍 Expertise in **Python** for **Statistical Analysis** and **Exploratory Data Analysis (EDA)**. Also experienced in **R programming** for creating graphs.
+
+💡 **Core Competencies:**
+- Data Analysis | Data Extraction | Data Visualization  
+- Business Intelligence | Statistical Analysis | EDA  
+
+I'm always open to collaborating on projects, learning new technologies, and solving real-world problems with data! 🌟
+
 
 ---
 
@@ -53,28 +66,25 @@ I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked o
   <a href="https://github.com/arnavdeore/Library-Database-Management-System" target="_blank">
     <img src="https://img.shields.io/badge/Library--Database--Management--System-4479A1?style=flat&logo=github&logoColor=white" alt="Library Database Management System" width="300"/>
   </a>
-</p> 
-<p align="center">
-   <a href="https://github.com/arnavdeore/Bank-Loan-Data-Analysis" target="_blank">
+  <a href="https://github.com/arnavdeore/Bank-Loan-Data-Analysis" target="_blank">
     <img src="https://img.shields.io/badge/Bank--Loan--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Bank Loan Data Analysis" width="200">
   </a>
-</p>
-<p align="center">
    <a href="https://github.com/arnavdeore/Stock-Market-Data-Analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Stock--Market--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Stock Market Data Analysis" width="200">
+    <img src="https://img.shields.io/badge/Stock--Market--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Stock Market Data Analysis" width="220">
   </a>
-</p>
+</p> 
+
+
 <p align="center">
    <a href="https://github.com/arnavdeore/ML_Pipeline_Project" target="_blank">
     <img src="https://img.shields.io/badge/ML--Pipelin--Project-4479A1?style=flat&logo=github&logoColor=white" alt="ML Pipeline Project" width="200">
   </a>
-</p>
-<p align="center">
-   <a href="https://github.com/arnavdeore/To-Do_Flask_application" target="_blank">
-    <img src="https://img.shields.io/badge/To--Do_Flask_application-4479A1?style=flat&logo=github&logoColor=white" alt="To-Do Flask application" width="200">
+  <a href="https://github.com/arnavdeore/To-Do_Flask_application" target="_blank">
+    <img src="https://img.shields.io/badge/To--Do_Flask_application-4479A1?style=flat&logo=github&logoColor=white" alt="To-Do Flask application" width="250">
   </a>
 </p>
 
+
 ---
-Please feel free to explore my repositories and reach out for collaborations or questions.
+Please feel free to explore my repositories and reach out to me for collaborations or questions.
 
