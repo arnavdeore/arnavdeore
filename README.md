@@ -60,7 +60,7 @@ I'm always open to collaborating on projects, learning new technologies, and sol
 
 ---
 
-<h1 align="center">📈 Popular Repositories</h1>
+<h1 align="center"><img src="https://img.shields.io/badge/📈 Popular Repositories-4479A1?style=flat&logo=github&logoColor=white" alt="📈 Popular Repositories" width="300"/></h1>
 
 <p align="center">
   <a href="https://github.com/arnavdeore/Library-Database-Management-System" target="_blank">
