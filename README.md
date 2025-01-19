@@ -87,21 +87,5 @@ I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked o
 </p>
 
 ---
-
-##  <h1 align="center">📫 Connect with Me</h1>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arnav-deore-03b0901bb" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="200"/>
-  </a>
-</p>
-
-
-<p style="text-align: right;">
-  <a href="https://www.hackerrank.com/profile/arnavdeore08" target="_blank">
-    <img src="https://cdn.dribbble.com/users/1771471/screenshots/14108349/media/0d446f06dbc6f204fdcb138902df65c9.gif" alt="Hackerrank GIF" width="300"/>
-  </a>
-</p>
-
-
-Feel free to explore my repositories and reach out for collaborations or queries.
+Please feel free to explore my repositories and reach out for collaborations or questions.
 
