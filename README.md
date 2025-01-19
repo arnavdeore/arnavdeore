@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
+
+<h1 align="center">ABOUT ME</h1>
 I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked on hands-on projects like Stock Market Data analysis and delivered actionable insights for stock investment decisions. Developed proficiency in data visualization using Power BI, Tableau, and Excel enhancing organizational performance. Well-versed in database management and SQL, supporting analytical initiatives and improving data integrity. Core competencies include Data Analysis, Data Extraction, and Data Visualization, Business Intelligence, Python, Statistical Analysis, and Exploratory Data Analysis (EDA) with Python. R programming(creating graphs).
 
 ---
@@ -34,7 +35,7 @@ I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked o
 
 ---
 
-## 🚀 Current Focus
+## <h1 align="center"> 🚀 Current Focus</h1>
 - Learning and building projects related to
     1. Machine Learning.
     2. Data Science.
@@ -87,7 +88,7 @@ I'm Arnav Deore, a B-Tech graduate in Computer Science and Engineering. Worked o
 
 ---
 
-## 📫 Connect with Me
+##  <h1 align="center">📫 Connect with Me</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/arnav-deore-03b0901bb" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn GIF" width="200"/>
