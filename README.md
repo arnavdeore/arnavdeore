@@ -1,11 +1,38 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
-</picture>
+    <style>
+      @keyframes colorChange {
+        0% { background-color: #ff9999; }
+        25% { background-color: #99ff99; }
+        50% { background-color: #9999ff; }
+        75% { background-color: #ffff99; }
+        100% { background-color: #ff9999; }
+      }
+      .slideshow {
+        display: inline-block;
+        animation: colorChange 2s infinite;
+        padding: 10px;
+        border-radius: 10px;
+      }
+    </style>
+    <div class="slideshow">
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"
+      />
+      <img
+        alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:]"
+        src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
+      />
+    </div>
+  </picture>
 </p>
+
 
 <!--
 **arnavdeore/arnavdeore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +48,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
 <h1 align="center">ABOUT ME 👨‍💻</h1>
 Hi there! I'm **Arnav Deore**, a passionate **B-Tech graduate in Computer Science and Engineering** with a knack for uncovering insights through data. 🚀 
