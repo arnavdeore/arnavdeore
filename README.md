@@ -84,7 +84,7 @@ I'm always open to collaborating on projects, learning new technologies, and sol
   <a href="https://github.com/arnavdeore/To-Do_Flask_application" target="_blank">
     <img src="https://img.shields.io/badge/To--Do_Flask_application-4479A1?style=flat&logo=github&logoColor=white" alt="To-Do Flask application" width="250">
   </a>
-  <a href="[https://github.com/arnavdeore/To-Do_Flask_application](https://github.com/arnavdeore/Iris_Flower_Classification_using_Python)" target="_blank">
+  <a href="https://github.com/arnavdeore/Iris_Flower_Classification_using_Python" target="_blank">
     <img src="https://img.shields.io/badge/Iris_Flower_Classification_using_Python-4479A1?style=flat&logo=github&logoColor=white" alt="Iris_Flower_Classification_using_Python" width="370">
   </a>
 </p>
