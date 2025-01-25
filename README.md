@@ -31,7 +31,7 @@ Hi there! I'm <strong>Arnav Deore</strong></span>, a passionate <strong>B-Tech g
 - 🧩 Worked on exciting projects like **Stock Market Data Analysis**, delivering actionable insights for smarter investment decisions.
 - 📊 Proficient in **Power BI**, **Tableau**, and **Excel**, driving enhanced organizational performance with impactful visualizations.
 - 🛠️ Skilled in **Database Management** and **SQL**, ensuring data integrity and supporting analytical initiatives.
-- 🐍 Expertise in **Python** for **Statistical Analysis** and **Exploratory Data Analysis (EDA)**. Also experienced in **R programming** for creating graphs.
+- 🐍 Hands-on expertise in **Python** for **Statistical Analysis** and **Exploratory Data Analysis (EDA)**. Also basic knowledge in **R programming** for creating graphs.
 
 💡 **Core Competencies:**
 - Data Analysis | Data Extraction | Data Visualization  
