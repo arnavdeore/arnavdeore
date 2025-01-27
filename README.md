@@ -89,6 +89,6 @@ I'm always open to collaborating on projects, learning new technologies, and sol
   </a>
 </p>
 
----
-Please feel free to explore my repositories and reach out to me for collaborations or questions.
+<h4 align = 'center'>Please feel free to explore my repositories and contact me for collaborations or questions.</h4>
 
+---
