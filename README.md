@@ -34,8 +34,9 @@ Hi there! I'm <strong>Arnav Deore</strong></span>, a passionate <strong>B-Tech g
 - 🐍 Hands-on expertise in **Python** for **Statistical Analysis** and **Exploratory Data Analysis (EDA)**. Also basic knowledge in **R programming** for creating graphs.
 
 💡 **Core Competencies:**
-- Data Analysis | Data Extraction | Data Visualization  
-- Business Intelligence | Statistical Analysis | EDA  
+- Data Analysis | Data Visualization  
+- Business Intelligence | Statistical Analysis | EDA
+- ETL Process | Report creation  
 
 I'm always open to collaborating on projects, learning new technologies, and solving real-world problems with data! 🌟
 
