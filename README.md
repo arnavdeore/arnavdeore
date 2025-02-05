@@ -63,23 +63,19 @@ I'm always open to collaborating on projects, learning new technologies, and sol
 
 ---
 
-<h1 align="center"><img src="https://img.shields.io/badge/📈 Popular Repositories-4479A1?style=flat&logo=github&logoColor=white" alt="📈 Popular Repositories" width="300"/></h1>
+<h1 align="center"><a href="https://github.com/arnavdeore?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📈 Popular Repositories-4479A1?style=flat&logo=github&logoColor=white" alt="📈 Popular Repositories" width="300"/></a></h1>
 
 <p align="center">
   <a href="https://github.com/arnavdeore/Library-Database-Management-System" target="_blank">
-    <img src="https://img.shields.io/badge/Library--Database--Management--System-4479A1?style=flat&logo=github&logoColor=white" alt="Library Database Management System" width="300"/>
+    <img src="https://img.shields.io/badge/Library--Database--Management--System-4479A1?style=flat&logo=github&logoColor=white" alt="Library Database Management System" width="390"/>
   </a>
   <a href="https://github.com/arnavdeore/Bank-Loan-Data-Analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Bank--Loan--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Bank Loan Data Analysis" width="200">
+    <img src="https://img.shields.io/badge/Bank--Loan--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Bank Loan Data Analysis" width="290">
   </a>
    <a href="https://github.com/arnavdeore/Stock-Market-Data-Analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Stock--Market--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Stock Market Data Analysis" width="220">
+    <img src="https://img.shields.io/badge/Stock--Market--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Stock Market Data Analysis" width="300">
   </a>
-</p> 
-
-
-<p align="center">
-   <a href="https://github.com/arnavdeore/ML_Pipeline_Project" target="_blank">
+  <a href="https://github.com/arnavdeore/ML_Pipeline_Project" target="_blank">
     <img src="https://img.shields.io/badge/ML--Pipelin--Project-4479A1?style=flat&logo=github&logoColor=white" alt="ML Pipeline Project" width="200">
   </a>
   <a href="https://github.com/arnavdeore/To-Do_Flask_application" target="_blank">
@@ -88,7 +84,14 @@ I'm always open to collaborating on projects, learning new technologies, and sol
   <a href="https://github.com/arnavdeore/Iris_Flower_Classification_using_Python" target="_blank">
     <img src="https://img.shields.io/badge/Iris_Flower_Classification_using_Python-4479A1?style=flat&logo=github&logoColor=white" alt="Iris_Flower_Classification_using_Python" width="370">
   </a>
-</p>
+  <a href="https://github.com/arnavdeore/Blinkit_Data_Analysis" target="_blank">
+    <img src="https://img.shields.io/badge/Blinkit_Data_Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Iris_Flower_Classification_using_Python" width="200">
+  </a>
+  <a href="https://github.com/arnavdeore/Blinkit_Data_Analysis" target="_blank">
+    <img src="https://img.shields.io/badge/Blinkit_Data_Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Iris_Flower_Classification_using_Python" width="200">
+  </a>
+</p> 
+
 
 <h4 align = 'center'>Please feel free to explore my repositories and contact me for collaborations or questions.</h4>
 
