@@ -74,7 +74,7 @@ I'm always open to collaborating on projects, learning new technologies, and sol
 
 <p align="center">
   <a href="https://github.com/arnavdeore/Library-Database-Management-System" target="_blank">
-    <img src="https://img.shields.io/badge/Library--Database--Management--System-4479A1?style=flat&logo=github&logoColor=white" alt="Library Database Management System" width="390"/>
+    <img src="https://img.shields.io/badge/Library--Database--Management--System-4479A1?style=flat&logo=github&logoColor=white" alt="Library Database Management System" width="395"/>
   </a>
   <a href="https://github.com/arnavdeore/Bank-Loan-Data-Analysis" target="_blank">
     <img src="https://img.shields.io/badge/Bank--Loan--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Bank Loan Data Analysis" width="290">
