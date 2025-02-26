@@ -97,6 +97,9 @@ I'm always open to collaborating on projects, learning new technologies, and sol
   <a href="https://github.com/arnavdeore/EDA-in-Python-Practice" target="_blank">
     <img src="https://img.shields.io/badge/EDA--in--Python--Practice-4479A1?style=flat&logo=github&logoColor=white" alt="EDA-in-Python-Practice" width="220">
   </a>
+    <a href="https://github.com/arnavdeore/Car-Sales-Data-Analysis" target="_blank">
+    <img src="https://img.shields.io/badge/Car--Sales--Data--Analysis-4479A1?style=flat&logo=github&logoColor=white" alt="Car-Sales-Data-Analysis" width="230">
+  </a>
 </p> 
 
 
