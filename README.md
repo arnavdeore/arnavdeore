@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1 align="center">ABOUT ME 👨‍💻</h1>
 <h3 align="center">| Data Analysis | Data Analyst | Data Science | Python | State Level Hockey Player |</h3>
 
-Hi there! I'm <strong>Arnav Deore</strong></span>, a passionate <strong>B-Tech graduate in Computer Science and Engineering</strong> with a knack for uncovering insights through data. 🚀 
+Hi there! I'm <strong>Arnav Deore</strong></span>, currently pursuing MBA in Business Analytics and a passionate <strong>B-Tech graduate in Computer Science and Engineering</strong> with a knack for uncovering insights through data. 🚀 
 
 🔍 **Key Highlights:**
 - 🧩 Worked on exciting projects like **Stock Market Data Analysis**, delivering actionable insights for smarter investment decisions.
