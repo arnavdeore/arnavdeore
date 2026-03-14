@@ -56,7 +56,6 @@ I'm always open to collaborating on projects, learning new technologies, and sol
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="290" alt="MySQL"/> 
    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white" width="250" alt="Power BI"/> 
    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" width="230" alt="Tableau"/>
-   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" width="250" alt="Flask"/>
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" width="290" alt="Jupyter"/>
 </p>
 
