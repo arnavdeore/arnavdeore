@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrd2NjM2h5MGlhYXZ6cTNleDk3ejMyYWJ0MXZpZjhhMW81YjNnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrd2NjM2h5MGlhYXZ6cTNleDk3ejMyYWJ0MXZpZjhhMW81YjNnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif">
-    <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrd2NjM2h5MGlhYXZ6cTNleDk3ejMyYWJ0MXZpZjhhMW81YjNnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" width="600">
+    <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZrd2NjM2h5MGlhYXZ6cTNleDk3ejMyYWJ0MXZpZjhhMW81YjNnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" width="1000">
   </picture>
 </p>
 
