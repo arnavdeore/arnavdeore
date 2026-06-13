@@ -58,6 +58,8 @@ I'm always open to collaborating on projects, learning new technologies, and sol
    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" width="230" alt="Tableau"/>
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" width="290" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" width="400" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
 ---
