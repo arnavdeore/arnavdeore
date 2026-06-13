@@ -57,7 +57,7 @@ I'm always open to collaborating on projects, learning new technologies, and sol
    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white" width="250" alt="Power BI"/> 
    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" width="230" alt="Tableau"/>
    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" width="290" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" width="290" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white" width="400" alt="Google Sheets"/>
 </p>
 
 ---
